@@ -1,12 +1,8 @@
 # dr. Gorokhov Ivan
 
-\_
-
 ## Frontend Developer
 
----
-
-## Contact information:
+**Contact information:**
 
 **Phone:** +374-430-46-428  
 **Email:** xgorokhovx@gmail.com  
@@ -16,13 +12,13 @@
 
 ---
 
-## Briefly About Myself:
+**Briefly About Myself:**
 
 I am a skilled and motivated front-end developer with over one year of experience building and maintaining interactive, user-friendly websites and web applications. Proficient in the latest web development technologies and able to develop cross-platform compatible websites that meet the latest web standards.
 
 ---
 
-## Skills:
+**Skills:**
 
 - HTML/CSS/JavaScript
 - TypeScript
@@ -39,9 +35,9 @@ I am a skilled and motivated front-end developer with over one year of experienc
 
 ---
 
-## Code example:
+**Code example:**
 
-## Here's an example of function that could track the Y position of the screen. And use it to display button as soon as user scrolls up.
+Here's an example of function that could track the Y position of the screen. And use it to display button as soon as user scrolls up.
 
 ```
   const [isArrowActive, setIsArrowActive] = useState(false);
@@ -91,7 +87,7 @@ I am a skilled and motivated front-end developer with over one year of experienc
 
 ---
 
-## Courses:
+**Courses:**
 
 - Udemy: JS, React, Tailwind
 - Frontend Masters: Redux, TypeScript, HTML/CSS/JS
@@ -99,7 +95,7 @@ I am a skilled and motivated front-end developer with over one year of experienc
 
 ---
 
-## Languages:
+**Languages:**
 
 - English - Intermediate/Upper-intermediate (according to the online test at [EFset](www.efset.org) )
 - Russian - native
