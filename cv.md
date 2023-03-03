@@ -8,10 +8,10 @@
 
 ## Contact information:
 
-**Phone:** +374-430-46-428
-**Email:** xgorokhovx@gmail.com
-**Telegram:** https://t.me/xDopex
-[LinkedIn](https://www.linkedin.com/in/ivan-gorokhov-829668234)
+**Phone:** +374-430-46-428  
+**Email:** xgorokhovx@gmail.com  
+**Telegram:** https://t.me/xDopex  
+[LinkedIn](https://www.linkedin.com/in/ivan-gorokhov-829668234)  
 [CodeWars](https://www.codewars.com/users/xDopeHatex/)
 
 ---
@@ -41,7 +41,7 @@ I am a skilled and motivated front-end developer with over one year of experienc
 
 ## Code example:
 
-##### Here's an example of function that could track the Y position of the screen. And use it to display button as soon as user scrolls up.
+## Here's an example of function that could track the Y position of the screen. And use it to display button as soon as user scrolls up.
 
 ```
   const [isArrowActive, setIsArrowActive] = useState(false);
