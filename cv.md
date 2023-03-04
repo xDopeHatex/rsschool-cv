@@ -1,6 +1,6 @@
 # dr. Gorokhov Ivan
 
-https://i.ibb.co/Bz1PSYy/NFbwg5-HOOCE-3.jpg
+![foto](https://i.ibb.co/Bz1PSYy/NFbwg5-HOOCE-3.jpg)
 
 ## Frontend Developer
 
@@ -89,8 +89,7 @@ Aug, 2022 - Present
 
 - One of the last tasks I've been assigned was to singly developed a website based on Figma design using React, Tailwind, Axios, React router dom, React helmet, and also implementation of SEO tags. Here's the link to the [website](https://dbd.am/)
 
-  My work at SK Solutions includes :  
-
+  My work at SK Solutions includes :
 
 - Built and maintained websites and web applications
 - Developed and implement authorization using JWT
