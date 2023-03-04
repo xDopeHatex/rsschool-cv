@@ -97,9 +97,8 @@ Here's an example of function that could track the Y position of the screen. And
 
 **Languages:**
 
-- English - Intermediate/Upper-intermediate (according to the online test at [EFset](www.efset.org) )
+- English - Proficient C2 (according to the online test at [EFset](https://www.efset.org/cert/KpA873) )
 - Russian - native
-- English -
 - Ukrainian - Intermediate
 - Polish - Basic
 - Belarusian - Basic
