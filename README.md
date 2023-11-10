@@ -1,1 +1,1 @@
-https://xDopeHatex.github.io/rsschool-cv/
+https://xDopeHatex.github.io/rsschool-cv/cv
